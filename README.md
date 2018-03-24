@@ -1,1 +1,2 @@
-# nutri-baby
+# Nutri Baby #
+### Color Palette ### 

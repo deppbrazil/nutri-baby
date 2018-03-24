@@ -1,0 +1,24 @@
+{
+  "name": "nutri-baby",
+  "version": "1.0.0",
+  "description": "eat for baby's ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppbrazil/nutri-baby.git"
+  },
+  "keywords": [
+    "baby",
+    "nutri",
+    "eat"
+  ],
+  "author": "Mir Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deppbrazil/nutri-baby/issues"
+  },
+  "homepage": "https://github.com/deppbrazil/nutri-baby#readme"
+}
