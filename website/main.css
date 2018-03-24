@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+.Bubble Gum Balloon {
+    background-color: #F7A3B3;
+}
+.Barley Tan tg {
+    background-color: #DEBDA7;
+}
+.moonlit seahorse {
+    background-color: #D3E3AD;
+}
+.Take Me Now {
+    background-color: #A8E0C4;
+}
+
+.Melancholy {
+    background-color: #93B7BD;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: #93B7BD;
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 90vw;
+    height: 90vh;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px dotted rgba(255, 255, 255, 0.50);
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.50);
+    font-size: 80px;
+    line-height: 80px;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: #D3E3AD;
+    -webkit-transition: 0.5s ease-in; /* navegadores webkit, como Safari e Chrome */
+    -moz-transition: 0.5s ease-in; /* Firefox */
+    -o-transition: 0.5s ease-in; /* Opera */
+
+}
