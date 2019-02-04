@@ -1,4 +1,4 @@
-# Nutri Baby #
+# Brand Nutri Baby #
 
 ## [Color Palette by Twister](http://www.colourlovers.com/lover/twister)
 ### [moonlit seahorse](https://github.com/deppbrazil/nutri-baby/blob/master/color/ColorPalette.jpeg) ### 
